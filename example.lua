@@ -1,5 +1,4 @@
---// by https://github.com/Aztup
-local DrawingLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/Aztup/DrawingLibrary/master/Main.lua'))();
+local DrawingLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/corelorax/DrawingLibraryHelper/main/source.lua'))();
 
 local Instance = DrawingLibrary;
 
