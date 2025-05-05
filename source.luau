@@ -1,7 +1,3 @@
---[[ 
-    by https://github.com/Aztup
-    https://aztupscripts.xyz/
---]]
 if(shared.DrawingLibrary) then
     return shared.DrawingLibrary
 end;
