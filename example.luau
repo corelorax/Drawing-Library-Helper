@@ -60,5 +60,6 @@ Frame_2.Position = UDim2.new(0.5, 0, 0.5, 0)
 Frame_2.Size = UDim2.new(0.1, 0, 0.1, 0)
 Frame_2.Parent = Frame
 
-wait(2);
+task.wait(2);
+
 Label.TextYAlignment = Enum.TextYAlignment.Top;
