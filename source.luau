@@ -10,8 +10,8 @@ local DrawingLibrary = {};
 local DrawingLibraryPrivate = {};
 local screenGUIs = {};
 
-local Maid = loadstring(game:HttpGet('https://raw.githubusercontent.com/Aztup/Aztup-Hub-V3-Utils/main/Maid.lua'))()
-local Signal = loadstring(game:HttpGet('https://raw.githubusercontent.com/Aztup/Aztup-Hub-V3-Utils/main/Signal.lua'))()
+local Maid = loadstring(game:HttpGet('https://raw.githubusercontent.com/corelorax/Drawing-Library-Helper/refs/heads/main/maid.luau'))()
+local Signal = loadstring(game:HttpGet('https://raw.githubusercontent.com/corelorax/Drawing-Library-Helper/refs/heads/main/slightly-modded-signals.luau'))()
 
 DrawingLibrary.DrawingLibrary = true;
 
