@@ -1,4 +1,4 @@
-local DrawingLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/corelorax/DrawingLibraryHelper/main/source.lua'))();
+local DrawingLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/corelorax/Drawing-Library-Helper/refs/heads/main/source.luau'))();
 
 local Instance = DrawingLibrary;
 
