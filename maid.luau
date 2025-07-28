@@ -3,7 +3,7 @@
 -- @classmod Maid
 -- @see Signal
 
-local Signal = loadstring(game:HttpGet('https://raw.githubusercontent.com/RawScriptContainer/Roblox-Scripts/main/Signal.lua'))();
+local Signal = loadstring(game:HttpGet('https://raw.githubusercontent.com/corelorax/Drawing-Library-Helper/refs/heads/main/slightly-modded-signals.luau'))();
 
 local Maid = {}
 Maid.ClassName = "Maid"
